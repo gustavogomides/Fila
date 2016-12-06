@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1411497459 source:/home/aluno/fila/fila.c
+	"fila.h"
+	<stdio.h>
+
+1411498153 /home/aluno/fila/fila.h
+
+1411497919 source:/home/aluno/fila/l10-3.c
+	"fila.h"
+	<stdio.h>
+
+1413312961 source:c:\users\gustavo-pc\documents\unifei\2º período\matérias\estrutura de dados 1\fila\fila.c
+	"fila.h"
+	<stdio.h>
+
+1413313010 c:\users\gustavo-pc\documents\unifei\2º período\matérias\estrutura de dados 1\fila\fila.h
+
+1413313076 source:c:\users\gustavo-pc\documents\unifei\2º período\matérias\estrutura de dados 1\fila\l10-3.c
+	"fila.h"
+	<stdio.h>
+
